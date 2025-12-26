@@ -11,8 +11,8 @@ export function Experience() {
       organization: "Decathlon Digital",
       period: "2021 - Present",
       description:
-        "Leading research initiatives in recommendation, Forecasting, transformer architectures and multimodal learning.",
-      skills: ["Python", "PyTorch", "AWS", "DeepAR", "XGBoost"],
+        "Leading research initiatives in recommendation, forecasting, transformer architectures and multimodal learning.",
+      skills: ["Python", "PyTorch", "LLMs", "Foundation Models"],
     },
     {
       type: "work",
@@ -21,7 +21,7 @@ export function Experience() {
       period: "2020 - 2021",
       description:
         "Developed AutoML pipelines systems to enhance the predictive accuracy of the vanilla deep learning models ",
-      skills: ["Python", "PyTorch", "HPC", "Optimization"],
+      skills: ["Python", "PyTorch", "Deep Learning", "Optimization"],
     },
     {
       type: "education",

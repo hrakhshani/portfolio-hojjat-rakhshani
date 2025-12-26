@@ -12,7 +12,7 @@ export function Publications() {
       venue: "Applied Soft Computing • 2021",
       type: "Journal",
       citation: 10,
-      link: "#",
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S1568494621005172",
     },
     {
       title: "Neural architecture search for time series classification",
@@ -20,7 +20,7 @@ export function Publications() {
       venue: "International Joint Conference on Neural Networks • 2020",
       type: "Conference",
       citation: 37,
-      link: "#",
+      link: "https://ieeexplore.ieee.org/document/9206721",
     },
     {
       title: "Automated machine learning for information retrieval in scientific articles",
@@ -28,7 +28,7 @@ export function Publications() {
       venue: "IEEE Congress on Evolutionary Computation • 2020",
       type: "Conference",
       citation: 11,
-      link: "#",
+      link: "https://ieeexplore.ieee.org/document/9185893",
     },
     {
       title: "Speed up differential evolution for computationally expensive protein structure prediction problems",
@@ -36,7 +36,7 @@ export function Publications() {
       venue: "Swarm and Evolutionary Computation • 2019",
       type: "Journal",
       citation: 27,
-      link: "#",
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S2210650218301585",
     },
     {
       title: "Optimum design of tuned mass dampers using multi-objective cuckoo search for buildings under seismic excitations",
@@ -44,7 +44,7 @@ export function Publications() {
       venue: "Alexandria Engineering Journal • 2018",
       type: "Journal",
       citation: 68,
-      link: "#",
+      link: "https://www.sciencedirect.com/science/article/pii/S1110016818301169",
     },
     {
       title: "Snap-drift cuckoo search: A novel cuckoo search optimization algorithm",
@@ -52,7 +52,7 @@ export function Publications() {
       venue: "Applied Soft Computing • 2017",
       type: "Journal",
       citation: 167,
-      link: "#",
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S1568494616305075",
     },
     {
       title: "Hierarchy cuckoo search algorithm for parameter estimation in biological systems",
@@ -60,7 +60,7 @@ export function Publications() {
       venue: "Chemometrics and Intelligent Laboratory Systems • 2016",
       type: "Journal",
       citation: 25,
-      link: "#",
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S0169743916304026",
     },
   ];
 
